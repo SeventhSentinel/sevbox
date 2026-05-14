@@ -1,0 +1,61 @@
+skybox Sky1Tall fliptop
+{
+"skybox/btsx1/1N.png"
+"skybox/btsx1/1E.png"
+"skybox/btsx1/1S.png"
+"skybox/btsx1/1W.png"
+"skybox/btsx1/1U.png"
+"skybox/btsx1/1D.png"
+}
+
+skybox Sky1BTal fliptop
+{
+"skybox/btsx1/2N.png"
+"skybox/btsx1/2E.png"
+"skybox/btsx1/2S.png"
+"skybox/btsx1/2W.png"
+"skybox/btsx1/2U.png"
+"skybox/btsx1/2D.png"
+}
+
+skybox Sky1CTal fliptop
+{
+"skybox/btsx1/3N.png"
+"skybox/btsx1/3E.png"
+"skybox/btsx1/3S.png"
+"skybox/btsx1/3W.png"
+"skybox/btsx1/3U.png"
+"skybox/btsx1/3D.png"
+}
+
+/*
+skybox Sky2Tall fliptop
+{
+"skybox/btsx2/1N.png"
+"skybox/btsx2/1E.png"
+"skybox/btsx2/1S.png"
+"skybox/btsx2/1W.png"
+"skybox/btsx2/1U.png"
+"skybox/btsx2/1D.png"
+}
+
+skybox Sky2BTal fliptop
+{
+"skybox/btsx2/2N.png"
+"skybox/btsx2/2E.png"
+"skybox/btsx2/2S.png"
+"skybox/btsx2/2W.png"
+"skybox/btsx2/2U.png"
+"skybox/btsx2/2D.png"
+}
+
+skybox Sky2CTal fliptop
+{
+"skybox/btsx2/3N.png"
+"skybox/btsx2/3E.png"
+"skybox/btsx2/3S.png"
+"skybox/btsx2/3W.png"
+"skybox/btsx2/3U.png"
+"skybox/btsx2/3D.png"
+}
+*/
