@@ -1,0 +1,102 @@
+skybox Sky1 fliptop
+{
+"skybox/chex3/1NS.png"
+"skybox/chex3/1EW.png"
+"skybox/chex3/1NS.png"
+"skybox/chex3/1EW.png"
+"skybox/chex3/1U.png"
+"skybox/chex3/1D.png"
+}
+
+skybox Sky2 fliptop
+{
+"skybox/chex3/2NS.png"
+"skybox/chex3/2EW.png"
+"skybox/chex3/2NS.png"
+"skybox/chex3/2EW.png"
+"skybox/chex3/2U.png"
+"skybox/chex3/1D.png"
+}
+
+// 3EWe = 3EWf, 3EWg
+// 3NSa = 3NSb, 3NSh
+
+skybox CJSky3A fliptop
+{
+"skybox/chex3/3NSa.png"
+"skybox/chex3/3EWa.png"
+"skybox/chex3/3NSa.png"
+"skybox/chex3/3EWa.png"
+"skybox/chex3/3Ua.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3B fliptop
+{
+"skybox/chex3/3NSa.png"
+"skybox/chex3/3EWb.png"
+"skybox/chex3/3NSa.png"
+"skybox/chex3/3EWb.png"
+"skybox/chex3/3Ub.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3C fliptop
+{
+"skybox/chex3/3NSc.png"
+"skybox/chex3/3EWc.png"
+"skybox/chex3/3NSc.png"
+"skybox/chex3/3EWc.png"
+"skybox/chex3/3Uc.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3D fliptop
+{
+"skybox/chex3/3NSd.png"
+"skybox/chex3/3EWd.png"
+"skybox/chex3/3NSd.png"
+"skybox/chex3/3EWd.png"
+"skybox/chex3/3Ud.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3E fliptop
+{
+"skybox/chex3/3NSe.png"
+"skybox/chex3/3EWe.png"
+"skybox/chex3/3NSe.png"
+"skybox/chex3/3EWe.png"
+"skybox/chex3/3Ue.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3F fliptop
+{
+"skybox/chex3/3NSf.png"
+"skybox/chex3/3EWe.png"
+"skybox/chex3/3NSf.png"
+"skybox/chex3/3EWe.png"
+"skybox/chex3/3Uf.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3G fliptop
+{
+"skybox/chex3/3NSg.png"
+"skybox/chex3/3EWe.png"
+"skybox/chex3/3NSg.png"
+"skybox/chex3/3EWe.png"
+"skybox/chex3/3Ug.png"
+"skybox/chex3/3D.png"
+}
+
+skybox CJSky3H fliptop
+{
+"skybox/chex3/3NSa.png"
+"skybox/chex3/3EWh.png"
+"skybox/chex3/3NSa.png"
+"skybox/chex3/3EWh.png"
+"skybox/chex3/3Uh.png"
+"skybox/chex3/3D.png"
+}

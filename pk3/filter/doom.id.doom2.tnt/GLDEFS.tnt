@@ -1,0 +1,30 @@
+skybox Sky1 
+{
+"skybox/tnt/01_FR.png"
+"skybox/tnt/01_LF.png"
+"skybox/tnt/01_BK.png"
+"skybox/tnt/01_RT.png"
+"skybox/tnt/01_UP.png"
+"skybox/tnt/01_DN.png"
+}
+
+skybox Sky2
+{
+"skybox/tnt/02_FR.png"
+"skybox/tnt/02_LF.png"
+"skybox/tnt/02_BK.png"
+"skybox/tnt/02_RT.png"
+"skybox/tnt/02_UP.png"
+"skybox/tnt/02_DN.png"
+}
+
+skybox Sky3
+{
+"skybox/tnt/03_FR.png"
+"skybox/tnt/03_LF.png"
+"skybox/tnt/03_BK.png"
+"skybox/tnt/03_RT.png"
+"skybox/tnt/03_UP.png"
+"skybox/tnt/03_UP.png"
+}
+

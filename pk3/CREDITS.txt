@@ -1,0 +1,39 @@
+# CREDITS
+
+## Doom series
+
+Original assets: iD Software
+
+Doom I+II+Final Doom skybox conversions: Ezepov https://forum.zdoom.org/viewtopic.php?t=53873
+
+Modified by SeventhSentinel:
+Doom 2 SKY1 (Removed distracting green pixels in 01_UP)
+Doom 2 SKY3 (Resized to match the rest, adjusted to look more faithful)
+Plutonia SKY3 (Resized to match the rest)
+TNT Sky1 (General polish)
+
+Master Levels & Legacy of Rust skybox conversions by SeventhSentinel
+See project-files folder for more details
+
+## Heretic
+
+Original assets: Raven Software
+Skybox conversions by SeventhSentinel
+Thanks to Boondorl and Captain J for encouraging me to properly finish SKY3
+See project-files folder for more details
+
+## Adventures of Square
+
+Original assets: Big Brik
+Skybox conversions by SeventhSentinel
+
+## Chex Quest
+
+Original assets: Digital Cafe
+Skybox conversions by SeventhSentinel
+CJSKY3* animation script by Vortex
+
+## FreeDoom
+Original assets: FreeDoom contributors
+Skybox conversions by SeventhSentinel
+See project-files folder for more details

@@ -1,0 +1,39 @@
+skybox Sky1 fliptop
+{
+"skybox/freedoom/1_1N.png"
+"skybox/freedoom/1_1E.png"
+"skybox/freedoom/1_1S.png"
+"skybox/freedoom/1_1W.png"
+"skybox/freedoom/1_1U.png"
+"skybox/freedoom/1_1D.png"
+}
+
+skybox Sky2
+{
+"skybox/doom1/02_FR.png"
+"skybox/doom1/02_LF.png"
+"skybox/doom1/02_BK.png"
+"skybox/doom1/02_RT.png"
+"skybox/doom1/02_UP.png"
+"skybox/doom1/02_DN.png"
+}
+
+skybox Sky3
+{
+"skybox/doom1/03_FR.png"
+"skybox/doom1/03_LF.png"
+"skybox/doom1/03_BK.png"
+"skybox/doom1/03_RT.png"
+"skybox/doom1/03_UP.png"
+"skybox/doom1/03_DN.png"
+}
+
+skybox Sky4 fliptop
+{
+"skybox/freedoom/1_4N.png"
+"skybox/freedoom/1_4E.png"
+"skybox/freedoom/1_4S.png"
+"skybox/freedoom/1_4W.png"
+"skybox/freedoom/1_4U.png"
+"skybox/freedoom/1_4D.png"
+}
