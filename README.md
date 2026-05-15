@@ -21,7 +21,7 @@ Asset license: CC BY-NC-SA 4.0
 - Back to Saturn X: Episode 1
 
 ### Installation
-1. [Download the latest release](https://github.com/SeventhSentinel/doom-skyboxes/releases) for the game/mapset of your choice.
+1. [Download the latest release](https://github.com/SeventhSentinel/sevbox/releases) for the game/mapset of your choice.
 2. Load the pk3 after your IWAD/PWAD in UZDoom.
 
 ### Do you like SevBox?
