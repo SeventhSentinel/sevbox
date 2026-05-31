@@ -1,10 +1,10 @@
 skybox OSky28 fliptop
 {
-	"skybox/otex/28_N.png"
-	"skybox/otex/28_E.png"
-	"skybox/otex/28_S.png"
-	"skybox/otex/28_W.png"
-	"skybox/otex/28_U.png"
-	"skybox/otex/28_D.png"
+	"skybox/otex/28_N.lmp"
+	"skybox/otex/28_E.lmp"
+	"skybox/otex/28_S.lmp"
+	"skybox/otex/28_W.lmp"
+	"skybox/otex/28_U.lmp"
+	"skybox/otex/28_D.lmp"
 }
 
