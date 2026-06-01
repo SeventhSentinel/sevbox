@@ -17,3 +17,33 @@ skybox OSky28 fliptop
 	"skybox/otex/28_U.lmp"
 	"skybox/otex/BLACK.lmp"
 }
+
+skybox OATRSKY fliptop
+{
+	"skybox/otex/28_N.lmp"
+	"skybox/otex/28_E.lmp"
+	"skybox/otex/28_S.lmp"
+	"skybox/otex/28_W.lmp"
+	"skybox/otex/28_U.lmp"
+	"skybox/otex/BLACK.lmp"
+}
+
+skybox OSky43 fliptop
+{
+	"skybox/otex/43_N.lmp"
+	"skybox/otex/43_E.lmp"
+	"skybox/otex/43_S.lmp"
+	"skybox/otex/43_W.lmp"
+	"skybox/otex/43_U.lmp"
+	"skybox/otex/BLACK.lmp"
+}
+
+skybox ODFSKY45 fliptop
+{
+	"skybox/otex/ODF45_N.lmp"
+	"skybox/otex/ODF45_E.lmp"
+	"skybox/otex/ODF45_S.lmp"
+	"skybox/otex/ODF45_W.lmp"
+	"skybox/otex/ODF45_U.lmp"
+	"skybox/otex/ODF45_D.lmp"
+}
