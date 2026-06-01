@@ -1,3 +1,13 @@
+skybox OSky03 fliptop
+{
+	"skybox/otex/03_N.lmp"
+	"skybox/otex/03_E.lmp"
+	"skybox/otex/03_S.lmp"
+	"skybox/otex/03_W.lmp"
+	"skybox/otex/03_U.lmp"
+	"skybox/otex/BLACK.lmp"
+}
+
 skybox OSky28 fliptop
 {
 	"skybox/otex/28_N.lmp"
@@ -5,6 +15,5 @@ skybox OSky28 fliptop
 	"skybox/otex/28_S.lmp"
 	"skybox/otex/28_W.lmp"
 	"skybox/otex/28_U.lmp"
-	"skybox/otex/28_D.lmp"
+	"skybox/otex/BLACK.lmp"
 }
-
