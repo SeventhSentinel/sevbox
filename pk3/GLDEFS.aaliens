@@ -7,3 +7,63 @@ skybox SkyBLZ_2 fliptop
 "skybox/aaliens/blz2_U.png"
 "skybox/aaliens/blz2_D.png"
 }
+
+skybox SkyBLZ22 fliptop
+{
+"skybox/aaliens/blz22_N.png"
+"skybox/aaliens/blz22_E.png"
+"skybox/aaliens/blz22_S.png"
+"skybox/aaliens/blz22_W.png"
+"skybox/aaliens/blz22_U.png"
+"skybox/aaliens/blz22_D.png"
+}
+
+skybox SkyBLZ23 fliptop
+{
+"skybox/aaliens/blz23_N.png"
+"skybox/aaliens/blz22_E.png"
+"skybox/aaliens/blz23_S.png"
+"skybox/aaliens/blz23_W.png"
+"skybox/aaliens/blz23_U.png"
+"skybox/aaliens/blz22_D.png"
+}
+
+skybox SkyBLZ24 fliptop
+{
+"skybox/aaliens/blz24_N.png"
+"skybox/aaliens/blz22_E.png"
+"skybox/aaliens/blz24_S.png"
+"skybox/aaliens/blz24_W.png"
+"skybox/aaliens/blz24_U.png"
+"skybox/aaliens/blz22_D.png"
+}
+
+skybox SkyBLZ25 fliptop
+{
+"skybox/aaliens/blz25_N.png"
+"skybox/aaliens/blz22_E.png"
+"skybox/aaliens/blz24_S.png"
+"skybox/aaliens/blz25_W.png"
+"skybox/aaliens/blz25_U.png"
+"skybox/aaliens/blz22_D.png"
+}
+
+skybox SkyBLZ26 fliptop
+{
+"skybox/aaliens/blz26_N.png"
+"skybox/aaliens/blz22_E.png"
+"skybox/aaliens/blz24_S.png"
+"skybox/aaliens/blz26_W.png"
+"skybox/aaliens/blz26_U.png"
+"skybox/aaliens/blz22_D.png"
+}
+
+skybox SkyBLZ27 fliptop
+{
+"skybox/aaliens/blz27_N.png"
+"skybox/aaliens/blz22_E.png"
+"skybox/aaliens/blz24_S.png"
+"skybox/aaliens/blz27_W.png"
+"skybox/aaliens/blz26_U.png"
+"skybox/aaliens/blz22_D.png"
+}
