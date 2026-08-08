@@ -1,0 +1,9 @@
+skybox SkyBLZ_2 fliptop
+{
+"skybox/aaliens/blz2_NS.png"
+"skybox/aaliens/blz2_EW.png"
+"skybox/aaliens/blz2_NS.png"
+"skybox/aaliens/blz2_EW.png"
+"skybox/aaliens/blz2_U.png"
+"skybox/aaliens/blz2_D.png"
+}
